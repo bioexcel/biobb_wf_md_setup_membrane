@@ -9,4 +9,5 @@ dependencies:
   - nb_conda_kernels
   - plotly
   - nglview
+  - simpletraj
   - conda

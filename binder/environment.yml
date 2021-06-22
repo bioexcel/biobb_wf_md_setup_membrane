@@ -8,4 +8,5 @@ dependencies:
   - biobb_analysis==3.5.0
   - plotly
   - nglview
+  - simpletraj
   - conda
