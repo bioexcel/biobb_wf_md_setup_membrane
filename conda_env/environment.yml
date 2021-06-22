@@ -7,5 +7,6 @@ dependencies:
   - biobb_md==3.5.1
   - biobb_analysis==3.5.0
   - nb_conda_kernels
+  - plotly
   - nglview
   - conda
